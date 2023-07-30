@@ -24,20 +24,3 @@ $ npm start
 ```
 
 
-### YouTube Video & Article
-
-[YouTube Video](https://youtu.be/1aXZQcG2Y6I)
-
-[Read Article](https://raddy.co.uk/blog/simple-user-management-system-nodejs-express-mysql-handlebards/)
-
-### YouTube Channel - RaddyTheBrand
-
-[Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
-
-### Website
-[www.raddy.co.uk](https://www.raddy.co.uk)
-
-### Donations
-[Via Paypal](https://www.paypal.me/RadoslavAngelov)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
